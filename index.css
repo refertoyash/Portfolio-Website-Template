@@ -681,3 +681,9 @@ font-size: 2vw;
   position: relative;
   top: 500px;
 }
+
+/* MMMUT logo maintainance  */
+
+ #mmmut-logo{
+	 height:40px!important;
+}
